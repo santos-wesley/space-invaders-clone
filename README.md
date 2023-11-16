@@ -117,7 +117,7 @@ The core logic of the game revolves around several key operations:
 ## User Manual
 ### Starting the Game
 
-1. **Launch**: Run `main.py` using a Python interpreter that supports Pygame. Alternatively, you can run the `game.exe`. Ensure all game resources (images and sounds) are correctly placed in their respective directories.
+1. **Launch**: Run `main.py` using a Python interpreter that supports Pygame. Alternatively, you can run the [`game.exe`](https://drive.google.com/file/d/1EXU5v6TH-HvRjNOb-XOfDgGzu_-V72Oq/view?usp=drive_link). Ensure all game resources (images and sounds) are correctly placed in their respective directories.
 2. **Initial Screen**: Upon launch, the game displays a start menu with options like 'EASY', 'MEAN', and 'HARD'. Choose your desired difficulty level by clicking on these options.
 
 ### Gameplay Instructions
